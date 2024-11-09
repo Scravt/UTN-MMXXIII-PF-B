@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.pizzerialavera.e_commerce.ECommerceApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.18 s -- in com.pizzerialavera.e_commerce.ECommerceApplicationTests
