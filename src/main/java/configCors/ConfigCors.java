@@ -9,7 +9,7 @@ public class ConfigCors implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**") // Cambia a una ruta relativa
-                .allowedOrigins("http://localhost:5173") // Permitir solo esta URL
+                .allowedOrigins("https://scravt.github.io/") // Permitir solo esta URL
                 .allowedMethods("GET", "POST", "PUT", "DELETE")
                 .allowCredentials(true);
 
